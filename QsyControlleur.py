@@ -17,9 +17,9 @@ Plus d'info: F8ASB.COM
 
 '''
 
-############
-#PARAMETRES#
-############
+##############
+# PARAMETRES #
+##############
 
 #Entrer le GPIO de la detection PTT
 gpio="gpio18"
