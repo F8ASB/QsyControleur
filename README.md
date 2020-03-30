@@ -1,5 +1,5 @@
 # QsyControlleur
-Programme de gestion de QSY Salon
+Programme de gestion de QSY Salon pour installation réseau RRF
                
 Ce script permet lorsque qu'il est integré dans CRON de gerer un QSY
 programmé. Avant d'effectuer le QSY ce script controle que le relais
