@@ -25,7 +25,7 @@ Plus d'info: F8ASB.COM
 gpio="gpio18"
 
 #Entrer le temps entre les test en s
-timetest=10
+timetest=60
 
 #Chemin du script à lancer
 Script_Path="/etc/spotnik/restart.bav"
